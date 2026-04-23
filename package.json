@@ -1,0 +1,1 @@
+{"name": "marketplace-app", "private": true, "workspaces": ["client", "server"], "scripts": {"install": "lerna bootstrap", "start": "lerna run start --stream", "build": "lerna run build", "test": "lerna run test"}, "devDependencies": {"lerna": "^6.0.0"}}
